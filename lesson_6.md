@@ -2,8 +2,7 @@
 
 Similar to HTML, you can set attributes on JSX components. Unlike HTML, these
 attributes can be entirely arbitrarily named, and have Javascript values
-(strings, numbers, functions, object, etc). Since the values are Javascript, you
-have to escape them by wrapping in single curly braces:
+(strings, numbers, functions, object, etc). Since the values are Javascript, you have to escape them by wrapping in single curly braces:
 
 ```javascript
 React.render(
@@ -12,8 +11,7 @@ React.render(
 )
 ```
 
-In JSX, these attributes are known as *props*, and are available from within the
-component as the frist function parameter:
+In JSX, these attributes are known as *props*, and are available from within the component as the frist function parameter:
 
 ```javascript
 function MyComponent(props) {
