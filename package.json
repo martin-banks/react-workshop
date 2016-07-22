@@ -4,17 +4,17 @@
   "description": "A practical workshop for writing React components and some of the fun things you can do with them.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": ""
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jesstelford/react-workshop.git"
+    "url": "git+https://github.com/martin-banks/react-workshop.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jesstelford/react-workshop/issues"
+    "url": "https://github.com/martin-banks/react-workshop/issues"
   },
-  "homepage": "https://github.com/jesstelford/react-workshop#readme"
+  "homepage": "https://github.com/martin-banks/react-workshop.git#readme"
 }
